@@ -1,0 +1,14 @@
+{
+    "resourceName": "speechGenerator9c69933d",
+    "convertPolicyName": "speechGeneratorPolicy9c69933d",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "convertType": "speechGenerator",
+    "language": "es-MX",
+    "voice": "Mia",
+    "access": "authAndGuest"
+}
